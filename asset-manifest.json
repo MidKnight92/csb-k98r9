@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "https://midknight92.github.io/csb-k98r9/static/js/main.5b5dcf4e.chunk.js",
+    "main.js.map": "https://midknight92.github.io/csb-k98r9/static/js/main.5b5dcf4e.chunk.js.map",
+    "runtime-main.js": "https://midknight92.github.io/csb-k98r9/static/js/runtime-main.cce3b150.js",
+    "runtime-main.js.map": "https://midknight92.github.io/csb-k98r9/static/js/runtime-main.cce3b150.js.map",
+    "static/css/2.77cf4ef6.chunk.css": "https://midknight92.github.io/csb-k98r9/static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.6a7026d8.chunk.js": "https://midknight92.github.io/csb-k98r9/static/js/2.6a7026d8.chunk.js",
+    "static/js/2.6a7026d8.chunk.js.map": "https://midknight92.github.io/csb-k98r9/static/js/2.6a7026d8.chunk.js.map",
+    "index.html": "https://midknight92.github.io/csb-k98r9/index.html",
+    "static/css/2.77cf4ef6.chunk.css.map": "https://midknight92.github.io/csb-k98r9/static/css/2.77cf4ef6.chunk.css.map",
+    "static/js/2.6a7026d8.chunk.js.LICENSE.txt": "https://midknight92.github.io/csb-k98r9/static/js/2.6a7026d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cce3b150.js",
+    "static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.6a7026d8.chunk.js",
+    "static/js/main.5b5dcf4e.chunk.js"
+  ]
+}
